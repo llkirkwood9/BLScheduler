@@ -1,0 +1,56 @@
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Release\TLC Scheduler.exe.config
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Release\TLC Scheduler.exe
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Release\TLC Scheduler.pdb
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC Scheduler.csproj.ResolveComReference.cache
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC_Scheduler.AddStudent.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC_Scheduler.CreateDepartment.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.EditStudent.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC_Scheduler.Form1.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC_Scheduler.LaunchMenu.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.ScheduleCreator.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC_Scheduler.Properties.Resources.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC_Scheduler.ViewStudents.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC Scheduler.csproj.GenerateResource.cache
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC Scheduler.csproj.CoreCompileInputs.cache
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC Scheduler.exe
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Release\TLC Scheduler.pdb
+E:\Scheduler App\TLC Scheduler\bin\Release\TLC Scheduler.exe.config
+E:\Scheduler App\TLC Scheduler\bin\Release\TLC Scheduler.exe
+E:\Scheduler App\TLC Scheduler\bin\Release\TLC Scheduler.pdb
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.csproj.AssemblyReference.cache
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.csproj.ResolveComReference.cache
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.AddStudent.resources
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.CreateDepartment.resources
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.Credits.resources
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.EditStudent.resources
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Form1.resources
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.LaunchMenu.resources
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.LoadingScreen.resources
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.ScheduleCreator.resources
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Properties.Resources.resources
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.ViewStudents.resources
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.csproj.GenerateResource.cache
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.csproj.CoreCompileInputs.cache
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.exe
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.pdb
+D:\Scheduler App\TLC Scheduler\bin\Release\TLC Scheduler.exe.config
+D:\Scheduler App\TLC Scheduler\bin\Release\TLC Scheduler.exe
+D:\Scheduler App\TLC Scheduler\bin\Release\TLC Scheduler.pdb
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.csproj.AssemblyReference.cache
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.csproj.ResolveComReference.cache
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.AddStudent.resources
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.CreateDepartment.resources
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.Credits.resources
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.EditDepartment.resources
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.EditStudent.resources
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Form1.resources
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.LaunchMenu.resources
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.LoadingScreen.resources
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.ScheduleCreator.resources
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Properties.Resources.resources
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.ViewStudents.resources
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.csproj.GenerateResource.cache
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.csproj.CoreCompileInputs.cache
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.exe
+D:\Scheduler App\TLC Scheduler\obj\Release\TLC Scheduler.pdb
+E:\Scheduler App\TLC Scheduler\obj\Release\TLC_Scheduler.Forms.EditDepartment.resources

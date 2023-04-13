@@ -1,0 +1,12 @@
+John
+Doe
+jjd1000@sru.edu
+E:\TLC Test Files\John_Doe_Schedule.xlsx
+Example
+Red
+Jane
+Doe
+jjd1001@sru.edu
+E:\TLC Test Files\Jane_Doe_Schedule.xlsx
+Example
+#0080FF

@@ -1,0 +1,141 @@
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe.config
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.pdb
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.AssemblyReference.cache
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Form1.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Properties.Resources.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.GenerateResource.cache
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.CoreCompileInputs.cache
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.exe
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.pdb
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe.config
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.pdb
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Form1.resources
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Properties.Resources.resources
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.GenerateResource.cache
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.CoreCompileInputs.cache
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.exe
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.pdb
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.CreateDepartment.resources
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.CreateDepartment.resources
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.LaunchMenu.resources
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.ViewStudents.resources
+D:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csprojAssemblyReference.cache
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.AddStudent.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.LaunchMenu.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.ViewStudents.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.EditStudent.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.ScheduleCreator.resources
+E:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.ResolveComReference.cache
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.exe
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.pdb
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.AssemblyReference.cache
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe.config
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.pdb
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.ResolveComReference.cache
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.AddStudent.resources
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.CreateDepartment.resources
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.EditStudent.resources
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Form1.resources
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.LaunchMenu.resources
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.ScheduleCreator.resources
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Properties.Resources.resources
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.ViewStudents.resources
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.GenerateResource.cache
+F:\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe.config
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.pdb
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.AssemblyReference.cache
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.ResolveComReference.cache
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.AddStudent.resources
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.CreateDepartment.resources
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.EditStudent.resources
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Form1.resources
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.LaunchMenu.resources
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.ScheduleCreator.resources
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Properties.Resources.resources
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.ViewStudents.resources
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.GenerateResource.cache
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.exe
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.pdb
+C:\Users\llkir\Desktop\TLC-Scheduler\TLC Scheduler\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.LoadingScreen.resources
+E:\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe.config
+E:\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe
+E:\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.pdb
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.AssemblyReference.cache
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.ResolveComReference.cache
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.AddStudent.resources
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.CreateDepartment.resources
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.EditStudent.resources
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Form1.resources
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.LaunchMenu.resources
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.LoadingScreen.resources
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.ScheduleCreator.resources
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Properties.Resources.resources
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.ViewStudents.resources
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.GenerateResource.cache
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.CoreCompileInputs.cache
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.exe
+E:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.pdb
+G:\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe.config
+G:\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.exe
+G:\TLC Scheduler\TLC Scheduler\bin\Debug\TLC Scheduler.pdb
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.AssemblyReference.cache
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.ResolveComReference.cache
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.AddStudent.resources
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.CreateDepartment.resources
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.EditStudent.resources
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Form1.resources
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.LaunchMenu.resources
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.LoadingScreen.resources
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.ScheduleCreator.resources
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.Properties.Resources.resources
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC_Scheduler.ViewStudents.resources
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.GenerateResource.cache
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.CoreCompileInputs.cache
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.exe
+G:\TLC Scheduler\TLC Scheduler\obj\Debug\TLC Scheduler.pdb
+E:\Scheduler App\TLC Scheduler\bin\Debug\TLC Scheduler.exe.config
+E:\Scheduler App\TLC Scheduler\bin\Debug\TLC Scheduler.exe
+E:\Scheduler App\TLC Scheduler\bin\Debug\TLC Scheduler.pdb
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.AssemblyReference.cache
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.ResolveComReference.cache
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.AddStudent.resources
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.CreateDepartment.resources
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.EditStudent.resources
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Form1.resources
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.LaunchMenu.resources
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.LoadingScreen.resources
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.ScheduleCreator.resources
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Properties.Resources.resources
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.ViewStudents.resources
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.GenerateResource.cache
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.CoreCompileInputs.cache
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.exe
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.pdb
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.Credits.resources
+D:\Scheduler App\TLC Scheduler\bin\Debug\TLC Scheduler.exe.config
+D:\Scheduler App\TLC Scheduler\bin\Debug\TLC Scheduler.exe
+D:\Scheduler App\TLC Scheduler\bin\Debug\TLC Scheduler.pdb
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.AssemblyReference.cache
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.ResolveComReference.cache
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.AddStudent.resources
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.CreateDepartment.resources
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.Credits.resources
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.EditDepartment.resources
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.EditStudent.resources
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Form1.resources
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.LaunchMenu.resources
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.LoadingScreen.resources
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.ScheduleCreator.resources
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Properties.Resources.resources
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.ViewStudents.resources
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.GenerateResource.cache
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.csproj.CoreCompileInputs.cache
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.exe
+D:\Scheduler App\TLC Scheduler\obj\Debug\TLC Scheduler.pdb
+E:\Scheduler App\TLC Scheduler\obj\Debug\TLC_Scheduler.Forms.EditDepartment.resources
